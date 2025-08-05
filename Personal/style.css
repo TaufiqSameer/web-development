@@ -1,0 +1,21 @@
+nav{
+    margin-right: 45%;
+    background-color: blue;
+    width: 100%;
+}
+
+img{
+    border-radius: 10px;
+}
+
+div button{
+    text-align: center;
+}
+
+.cursive-text {
+    font-family: 'Dancing Script', cursive;
+  }
+
+table{
+    bottom: 10px;
+}
